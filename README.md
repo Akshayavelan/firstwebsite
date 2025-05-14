@@ -1,12 +1,12 @@
 Car Retail Website
 
 Built using HTML, CSS, JavaScript. This project contains
-1. home
+1. Home
 2. About
 3. Buy
 4. Sell
 
-*home page contains a basic landing page and when we scroll to the bottom it contains log in credentials
+*Home page contains a basic landing page and when we scroll to the bottom it contains log in credentials
 
 *Buy page contains top models available
 
