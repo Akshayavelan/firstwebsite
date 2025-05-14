@@ -17,11 +17,12 @@ Built using HTML, CSS, JavaScript. This project contains
 
 No CSS framework, Javascript library or Any other libraries have been used in the project. It's a beginner level traditional front end design built by me. 
 
-additional links used:
--Pinterest for car images 
--remixicon for car icon
--google fonts for website don't
--referred to couple YouTube tutorials to implement css styles of my own
+Additional links used:
+
+•	Pinterest for car images 
+•	Remixicon for car icon
+•	google fonts for website don't
+•	Referred to a couple YouTube tutorials to implement CSS styles of my own
 
 
 
